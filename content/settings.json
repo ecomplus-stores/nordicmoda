@@ -1,10 +1,10 @@
 {
   "domain": "nordicmoda.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#0f0f0f",
+  "primary_color": "#ffffff",
   "theme": {
     "bootswatch": "lumen",
-    "custom": "clean-gray"
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/nordicmoda",
