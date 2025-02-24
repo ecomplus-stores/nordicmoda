@@ -14,11 +14,11 @@
     },
     {
       "type": "related-products",
-      "title": "Produtos relacionados"
+      "title": "🔗 Você também pode gostar"
     },
     {
       "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:",
+      "title": "🖤 Outras opções que conquistaram nossos clientes:",
       "show_loading": true
     },
     {
