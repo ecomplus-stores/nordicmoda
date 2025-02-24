@@ -1,13 +1,13 @@
 {
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 2,
     "full_width": false
   },
   "menu_all_departments": false,
   "centralized_logo": false,
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
+    "text": "Aproveite Frete Gratis nas compras acima de 399 para to Brasil!",
     "link": "/Novidades"
   },
   "alphabetical_order_submenu": false,
