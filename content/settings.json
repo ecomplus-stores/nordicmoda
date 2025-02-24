@@ -1,26 +1,26 @@
 {
-  "store_id": 51589,
-  "name": "nordicmoda",
   "domain": "nordicmoda.netlify.app",
-  "short_name": "nordicmoda",
-  "description": "nordicmoda",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cerulean",
+    "custom": "clean-gray"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/nordicmoda",
+  "logo": "/img/uploads/preto-800x800.png",
+  "name": "nordicmoda",
+  "short_name": "nordicmoda",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/nordicmoda",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/favicon-2.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/preto-100x100.png",
+  "store_id": 51589,
+  "description": "A Nordic Moda Masculina é referência em moda masculina, oferecendo peças que combinam elegância, conforto e versatilidade para homens que valorizam o estilo em todas as ocasiões. Nossa coleção inclui camisetas, bermudas, calças, camisas casuais, regatas e acessórios, feitos com tecidos de alta qualidade e modelagens que garantem um caimento perfeito.",
+  "large_icon": "/img/uploads/preto-800x800.png"
 }
