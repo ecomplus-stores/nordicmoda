@@ -29,13 +29,16 @@
     }
   ],
   "payment_methods": {
-    "pix": true,
+    "bb": true,
     "visa": true,
-    "mastercard": true,
+    "boleto": false,
     "elo": true,
-    "amex": true,
     "hipercard": true,
-    "boleto": true
+    "bradesco": true,
+    "mastercard": true,
+    "pix": true,
+    "amex": true,
+    "itau": true
   },
   "credits": ""
 }
