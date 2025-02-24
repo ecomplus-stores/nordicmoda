@@ -33,10 +33,19 @@
       "shuffle": false,
       "collection_id": null,
       "sort": "news",
-      "title": "",
+      "title": "👕Nova coleção, novas possibilidades.",
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "",
+      "link": "🚀 Sucessos de Vendas"
     },
     {
       "type": "page-title",
