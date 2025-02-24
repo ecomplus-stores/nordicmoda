@@ -9,7 +9,8 @@
   },
   "exchange": {
     "show": true,
-    "text": "🔄 Não ficou como esperava? A primeira troca é por nossa conta!"
+    "text": "",
+    "title": "Troca rápida e simples"
   },
   "promo": {
     "show": true,
