@@ -1,12 +1,17 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "frete gratis",
+  "meta_description": "nordeste",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 0,
       "full_width": false,
       "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/imagem-do-whatsapp-de-2025-02-24-a-s-18.06.09_60ec5189.jpg"
+        },
         {
           "img": "/img/uploads/imagem-do-whatsapp-de-2025-02-24-a-s-18.06.09_70757dac.jpg",
           "link": "/headset",
