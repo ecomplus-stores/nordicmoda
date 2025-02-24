@@ -1,7 +1,7 @@
 {
   "domain": "nordicmoda.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#d97745",
   "theme": {
     "bootswatch": "cerulean",
     "custom": "clean-gray"
