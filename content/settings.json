@@ -1,7 +1,7 @@
 {
   "domain": "nordicmoda.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#6e6c6c",
   "theme": {
     "bootswatch": "lumen",
     "custom": "clean-white"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/branco-favicon.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#000000",
   "icon": "/img/uploads/preto-100x100.png",
   "store_id": 51589,
   "description": "Referência em moda masculina, oferece peças que combinam elegância, conforto e versatilidade para homens que valorizam o estilo em todas as ocasiões. Nossa coleção inclui camisetas, bermudas, calças, camisas casuais, regatas e acessórios, feitos com tecidos de alta qualidade e modelagens que garantem um caimento perfeito.",
