@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.efd2dec727b3b9718843ecb3c7eb8140.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.99fbf4c419ee70589ff14f0a5167e922.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.d7a486094e16a81fad8e98440f824c20.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.3ace3729424f937f514b2ff58f109694.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.bc98865d6f8cd4eb7cf1c0e037fec939.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Nordic Moda ",
+  "short_name": "nordicmoda",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Referência em moda masculina, oferece peças que combinam elegância, conforto e versatilidade para homens que valorizam o estilo em todas as ocasiões. Nossa coleção inclui camisetas, bermudas, calças, camisas casuais, regatas e acessórios, feitos com tecidos de alta qualidade e modelagens que garantem um caimento perfeito.",
+  "background_color": "#ffffff",
+  "theme_color": "#443b3b"
+}
